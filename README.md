@@ -51,11 +51,11 @@ It is deployed using a DevOps-style workflow:
 ## 🧩 Project Structure
 
 📂 Project Structure
-/var/www/html
-│── index.html
-│── css/
-│── js/
-└── assets/
+- /var/www/html
+- │── index.html
+- │── css/
+- │── js/
+- └── assets/
 
 
 ---
@@ -75,18 +75,18 @@ It is deployed using a DevOps-style workflow:
    sudo git clone https://github.com/yourusername/yourrepo.git
 
 
-5. **Move website files**
+4. **Move website files**
    ```bash
-  sudo mv yourrepo/* .
+   sudo mv yourrepo/* .
 
- 7. **Set permissions**
+ 5. **Set permissions**
     ```bash
-sudo chown -R www-data:www-data /var/www/html
-sudo chmod -R 755 /var/www/html
+    sudo chown -R www-data:www-data /var/www/html
+    sudo chmod -R 755 /var/www/html
 
 6. **Restart Nginx**
-```bash
-sudo systemctl restart nginx
+   ```bash
+   sudo systemctl restart nginx
 
 🔗 Live Demo Link
 
