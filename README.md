@@ -92,9 +92,8 @@ It is deployed using a DevOps-style workflow:
 
 http:http://13.213.67.128/
 
-📬 Contact
-
-For collaboration or suggestions, feel free to connect:
+📬 Contact 
+ For collaboration or suggestions, feel free to connect:
 - Nafish Iqbal – DevOps Engineer
 - GitHub: https://github.com/nafishiqbal12
 - LinkedIn: https://linkedin.com/in/nafishiqbal12
