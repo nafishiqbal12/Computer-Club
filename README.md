@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project_banner.png" alt="UITS Computer Club Static Website Banner">
+  <img src="banner.png" alt="UITS Computer Club Static Website Banner">
 </p>
 # UITS Computer Club – Static Website
 
