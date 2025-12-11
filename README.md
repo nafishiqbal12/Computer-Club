@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="UITS Computer Club Static Website Banner">
 </p>
+
 # UITS Computer Club – Static Website
 
 This project is a fully deployed **static website** for the **UITS Computer Club**, hosted on an **AWS EC2 Ubuntu server** using **Nginx** as the web server.  
