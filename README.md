@@ -46,7 +46,7 @@ It is deployed using a DevOps-style workflow:
 
 ## 📸 Screenshot
 
-![Website Preview](screenshot.png)
+![Website Preview](Screenshot from 2025-12-11 23-23-29.png)
 
 *(Upload your screenshot as `screenshot.png` to GitHub for this to work)*
 
