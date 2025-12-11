@@ -66,24 +66,26 @@ It is deployed using a DevOps-style workflow:
    ```bash
    sudo apt update && sudo apt upgrade -y
 2. **Install Nginx**
-
+   ```bash
    sudo apt install nginx -y
 
 3. **Clone GitHub Repo**
+   ```bash
    cd /var/www/html
    sudo git clone https://github.com/yourusername/yourrepo.git
 
 
-4. **Move website files**
+5. **Move website files**
+   ```bash
   sudo mv yourrepo/* .
 
-5. **Set permissions**
-
+ 7. **Set permissions**
+    ```bash
 sudo chown -R www-data:www-data /var/www/html
 sudo chmod -R 755 /var/www/html
 
 6. **Restart Nginx**
-
+```bash
 sudo systemctl restart nginx
 
 🔗 Live Demo Link
