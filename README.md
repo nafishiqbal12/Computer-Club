@@ -77,7 +77,7 @@ It is deployed using a DevOps-style workflow:
 
 4. **Move website files**
    ```bash
-   sudo mv yourrepo/* .
+   sudo mv Computer-Club/* .
 
  5. **Set permissions**
     ```bash
