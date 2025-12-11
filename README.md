@@ -46,7 +46,7 @@ It is deployed using a DevOps-style workflow:
 
 ## 📸 Screenshot
 <p align="left">
-  <img src="Screenshot from 2025-12-11 23-23-29.png" alt="Website Preview">
+  <img src="Screenshot from 2025-12-11 23-30-14.png" alt="Website Preview">
 </p>
 
 *(Upload your screenshot as `screenshot.png` to GitHub for this to work)*
